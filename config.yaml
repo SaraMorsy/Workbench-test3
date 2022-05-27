@@ -43,8 +43,8 @@ contact: team@carpentries.org
 # Example -------------
 # 
 # episodes:
-# - introduction.md
-# - first-steps.md
+- introduction.md
+- first-steps.md
 # 
 # learners:
 # - setup.md
